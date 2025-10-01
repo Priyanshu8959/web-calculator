@@ -8,9 +8,10 @@ A simple and responsive calculator built using **HTML, CSS, and JavaScript**.
 - Responsive design
 - Centered modern UI with gradient background
 
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Flexbox, Gradient styling)
 - JavaScript (DOM manipulation, event handling)
 
-- thanks😊
+ Thanks 😊
